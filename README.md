@@ -29,3 +29,5 @@ Going back to my college days and time living alone, I brainstormed the age grou
 I also wanted to see if the frequency of visiting bars had a relationship to impulsive take out orders, but the distribution of bar visitation frequency appears to be slightly even across all age group categories.
 
 Activity 5.1 Take Out coupon accepted vs age group and bar frequency
+
+
